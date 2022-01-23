@@ -25,3 +25,11 @@
             ( git pull
             ( python2 Lite.py
             
+<p align="center">
+<i> <b>  Informasi</b> </i>
+</p>
+<p align="center">
+<i> <b>  Di sarankan jika crack</b> </i>
+<p align="center">
+<i> <b>  Gunakan Method mobile</b> </i>
+</p>

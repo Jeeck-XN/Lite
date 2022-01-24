@@ -573,8 +573,8 @@ class ngentod:
                             jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Isi dengan benar");self._jeeck_X_nano_()
                         elif _jeeck_X_ in ('1', '01'):
  #                           
-                            print '\n %s[%s+%s] akun %sOK%s tersimpan di >%s hasil/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
-                            print '%s [%s+%s] akun %sCP %stersimpan di > %shasil/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
+                            print '\n %s[%s+%s] akun %sOK%s tersimpan di =>%s hasil/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
+                            print '%s [%s+%s] akun %sCP %stersimpan di => %shasil/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
                             with ThreadPoolExecutor(max_workers=30) as log:
                                 for akun in self.id:
                                     try:
@@ -584,8 +584,8 @@ class ngentod:
                             os.remove(self.apk);exit()
                         elif _jeeck_X_ in ('2', '02'):
                             
-                            print '\n%s [%s+%s] akun %sOK%s tersimpan di >%s hasil/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
-                            print '%s [%s+%s] akun %sCP %stersimpan di > %shasil/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
+                            print '\n%s [%s+%s] akun %sOK%s tersimpan di =>%s hasil/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
+                            print '%s [%s+%s] akun %sCP %stersimpan di => %shasil/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
                             with ThreadPoolExecutor(max_workers=30) as log:
                                 for akun in self.id:
                                     try:
@@ -596,8 +596,8 @@ class ngentod:
                         elif _jeeck_X_ in ('3', '03'):
 #                            
                         
-                            print '\n %s[%s+%s] akun %sOK%s tersimpan di >%s hasil/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
-                            print '%s [%s+%s] akun %sCP %stersimpan di > %shasil/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
+                            print '\n %s[%s+%s] akun %sOK%s tersimpan di =>%s hasil/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
+                            print '%s [%s+%s] akun %sCP %stersimpan di => %shasil/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
                             with ThreadPoolExecutor(max_workers=30) as log:
                                 for akun in self.id:
                                     try:
@@ -610,14 +610,14 @@ class ngentod:
                     jeeck("\n \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Pilih sesuka hati kalian")
                     jeeck(" \033[0;36m[\033[0;35m1\033[0;36m]\033[0;00m B-Api [ FAST CRACK ]")
                     jeeck(" \033[0;36m[\033[0;35m2\033[0;36m]\033[0;00m Mbasic [ Selow[ RECOMENDED ]]")
-                    jeeck(" \033[0;36m[\033[0;35m3\033[0;36m]\033[0;00m Mobile [ Supper Sellow [ LEBIH BANYAK HASIL ]]")
+                    jeeck(" \033[0;36m[\033[0;35m3\033[0;36m]\033[0;00m Mobile [ Supper Sellow [ LEBIH BANYAK HASIL [LEBIH RECOMENDED]]]")
                     _jeeck_X_nano_(pwx.split(','))
                     break
         elif __jeeck__ganz__X__sad__boy__ in ('O', 'o'):
             jeeck("\n \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Pilih sesuka hati kalian")
             jeeck(" \033[0;36m[\033[0;35m1\033[0;36m]\033[0;00m B-Api [ FAST CRACK ]")
             jeeck(" \033[0;36m[\033[0;35m2\033[0;36m]\033[0;00m Mbasic [ Selow[ RECOMENDED ]]")
-            jeeck(" \033[0;36m[\033[0;35m3\033[0;36m]\033[0;00m Mobile [ Supper Sellow [ LEBIH BANYAK HASIL ]]")
+            jeeck(" \033[0;36m[\033[0;35m3\033[0;36m]\033[0;00m Mobile [ Supper Sellow [ LEBIH BANYAK HASIL [LEBIH RECOMEND]]]")
             self.langsung()
         else:
             jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Isi dengan benar");jeda(2);menu()
@@ -627,8 +627,8 @@ class ngentod:
             jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Isi dengan benar ");self.langsung()
         elif suuu in ('1', '01'):
  
-            print '\n %s[%s+%s] akun %sOK%s tersimpan di >%s hasil/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
-            print '%s [%s+%s] akun %sCP %stersimpan di > %shasil/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
+            print '\n %s[%s+%s] akun %sOK%s tersimpan di =>%s hasil/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
+            print '%s [%s+%s] akun %sCP %stersimpan di => %shasil/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
             with ThreadPoolExecutor(max_workers=30) as log:
             	for akun in self.id: 
                     try:
@@ -643,8 +643,8 @@ class ngentod:
             os.remove(self.apk);exit()
         elif suuu in ('2', '02'):
  
-            print '\n %s[%s+%s] akun %sOK%s tersimpan di >%s hasil/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
-            print '%s [%s+%s] akun %sCP %stersimpan di > %shasil/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
+            print '\n %s[%s+%s] akun %sOK%s tersimpan di =>%s hasil/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
+            print '%s [%s+%s] akun %sCP %stersimpan di => %shasil/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
             with ThreadPoolExecutor(max_workers=30) as log:
             	for akun in self.id: 
                     try:
@@ -659,8 +659,8 @@ class ngentod:
             os.remove(self.apk);exit()
         elif suuu in ('3', '03'):
  
-            print '\n %s[%s+%s] akun %sOK%s tersimpan di >%s hasil/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
-            print '%s [%s+%s] akun %sCP %stersimpan di > %shasil/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
+            print '\n %s[%s+%s] akun %sOK%s tersimpan di =>%s hasil/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
+            print '%s [%s+%s] akun %sCP %stersimpan di => %shasil/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
             with ThreadPoolExecutor(max_workers=30) as log:
             	for akun in self.id: 
                     try:

@@ -36,7 +36,7 @@ print("%s[•] %sKIRIM BUKTI TRANSFERR !!!      "%(P,M))
 print("%s[•] %sAGAR ADMIN BISA LANGSUNG KIRIM KASES TOOLS"%(P,M))
 print("%s | "%(B))
 print("%s[•] TRANSAKSI VIA PULSA INDOSAT !!!"%(P))
-print("%s[•] NOMOR : %s085891511849"%(P,U))
+print("%s[•] NOMOR : %s081517950734"%(P,U))
 print("%s | "%(B))
 print("%s[•]%s-------------------------------------------------%s[•]"%(P,B,P))
 print("%s | "%(B))
@@ -47,7 +47,7 @@ if lite in (""," "):
 elif lite in ("Y","y"):
      print("%s | "%(B))
      print("%s[•] Anda akan di arahkan ke whatsapp admin"%(P))
-     os.system("xdg-open https://wa.me/6281392505882?text=Asalamualaikum+Bang+*Jeeck*+*X*+*Nano*+Saya+Ingin+Membeli+Tools+LITE")
+     os.system("xdg-open https://wa.me/6281517950734?text=Asalamualaikum+Bang+*Jeeck*+*X*+*Nano*+Saya+Ingin+Membeli+Tools+LITE")
 elif lite in ("T","t"):
      print("%s | "%(B))
      print("%s[•] Yakin nggak mau beli bang : ("%(P));exit()
